@@ -47,47 +47,50 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Xu Jing  
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: Wenbo Yang  
+* Phone and WeChat: 13992649062 / Email: [y2400013559@gmail.com](y2400013559@gmail.com)
+* Personal Website: [botilde.github.io](https://botilde.github.io/)
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
+* Undergraduate: Beijing, Peking University, 2024
+  * Former major: Environmental Science and Engineering
+  * Major: integrated circuit design and integrated systems, School of Electronics Engineering and Computer Science
   * Double Degree: Economics, National School of Development
 
 Awards
 ======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* Efforts are being made
 
 Research Experience
 ======
-* Past (The following three research experiences were all rotations in the Turing Class) 
-  * Scoring Rules and Prediction Markets, Advisor: Kong Yuqing
-  * Multimodal Large Models, Advisor: Peng Yuxin
-  * Game Theory, Control Theory, and Computational Advertising, Advisor: Deng Xiaotie
+* Past 
+  * Efforts are being made
+
 * Current
-  * Large Language Models, 3D Generation Models, Advisor: Wang Yizhou
-  * No output yet, most recent paper reading pre-publication reference: [Dreamfusion](https://www.bilibili.com/video/BV1QkNHeHE3y/?vd_source=0de3e2c2bc626ecfacd0dcb9c7e40ce7)
+  * Efforts are being made
 
 Skills
 ======
-* Open-source projects located at [github.com/ICUlizhi](https://github.com/ICUlizhi)
+* Open-source projects located at [github.com/Botilde](https://github.com/Botilde)
 * CS and AI Related
-  * Programming Languages: Python, C/C++, JavaScript, LaTeX
-  * Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing, Large Models (including API usage, paper reading, reproduction)
-  * Data Science: Data Analysis, Data Visualization
-  * Software Development: Object-Oriented Programming, Version Control/Git
-  * Web Development: HTML, CSS, Node.js
-  * Operating Systems: Linux, Windows
-  * Tools and Frameworks: PyTorch, Scikit-learn, Jupyter Notebook
+  * Programming Languages: C/C++ (learning: Python; to learn JavaScript, LaTeX)
+  * Artificial Intelligence: going to learn
+  * Software Development: Object-Oriented Programming
+  * Web Development: I'll learn later
+  * Operating Systems: I'll learn later
 * Others
-  * Economics: Microeconomics, Econometrics, Game Theory
-  * Multiple Public Speaking Experiences (Academic or External Promotion)
-  * Student Organizations: Organizing Large-Scale (1000+) Events, Graphic Design, External Relations
+  * Soft pen calligraphy
   * Soft Skills: Problem Solving, Teamwork, Communication, Adaptability
 
+Volunteering
+======
+* Volunteer duration: 66 hours (by 2025.6.2.)
+
+
+Work experience
+======
+* I'll expolar later
 
 
 <!--
